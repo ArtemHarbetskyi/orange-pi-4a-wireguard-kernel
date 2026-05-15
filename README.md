@@ -8,7 +8,6 @@ Custom Linux kernel for Orange Pi 4A with enabled WireGuard support. Based on th
 - WireGuard enabled
 - Tested on Orange Pi 4A
 - Kernel: 5.15.147-sun55iw3
-- Linux 5.15.147-sun55iw3 #1.0.4 SMP PREEMPT Thu May 14 21:03:10 UTC 2026 aarch64 GNU/Linux
 - Based: Debian
 
 
