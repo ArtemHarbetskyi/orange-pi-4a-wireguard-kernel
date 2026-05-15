@@ -1,6 +1,6 @@
 # Orange Pi 4A Kernel with WireGuard
 
-Custom Linux kernel for Orange Pi 4A with enabled WireGuard support.
+Custom Linux kernel for Orange Pi 4A with enabled WireGuard support. Based on the default one with an upgraded Wireguard module.
 
 
 ## Features
